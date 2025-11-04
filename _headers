@@ -1,0 +1,5 @@
+# Cloudflare Pages ၏ Root တွင်ရှိသော _headers ဖိုင်
+# *.sh, *.py စသည့် code files များကို text/plain အနေဖြင့် Browser တွင် ပြသစေရန်
+/files/*.sh
+  Content-Type: text/plain
+  X-Content-Type-Options: nosniff
