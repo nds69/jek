@@ -3,3 +3,8 @@
 /files/*.sh
   Content-Type: text/plain
   X-Content-Type-Options: nosniff
+
+  # .sh files for Myanmar (UTF-8)
+  AddCharset UTF-8 .sh
+  AddType text/plain;charset=utf-8 .sh
+
