@@ -1,0 +1,87 @@
+{
+  "listen": ":5667",
+   "cert": "/etc/zivpn/zivpn.crt",
+   "key": "/etc/zivpn/zivpn.key",
+   "obfs":"zivpn",
+   "auth": {
+    "mode": "passwords",
+    "config": ["jaidee000","2day","kyawhtetoo17",
+"tunarkarkyaw1","silence","linlin1","yelin1","aungmoezaw","kalaylay1",
+"maungchit","minko1","ykt166","waiyansoe","yeye2","yeye1","canche1",
+"htethtetwai20","konaing18","aungheinmoe","kosoenaing","aungkyaw","nyinyiaung",
+"zawlwim18","thanhtay20","kozin18","yekhaung","htain","tunlin","ts","EveryCC",
+"kyawkoko20","tunlin17","thetsar17","arkarsoe17","kyawmyothu17","paing",
+"kaungkaung18","heinminoo17","silence171","silence17","thantzin17",
+"thetwaioo19","phyoewaiaung18","TarNage171","TarNage172","TarNage173",
+"aungpyaephyoe18","phyoaung181","phyoaung18","kyawhtetoo18","aung18",
+"kotuntun19","aung218","zawlwim181","popochit18","phyoaung182","aung181",
+"kolat18","aungsoemin18","kitkat18","pb181","pb182","fuckchitchit17",
+"chityathu20","tinaungkhant19","jame19","naythuya19","chitkokoaung19",
+"nannphyu20","zayyarmyo19","Yamone19","thetwaioo191","thetwaioo192","PhaNome19",
+"thetwaioo20","kogyitoe20","kokooo20","kyawkyaw20","thetwaioov19","kogyitoe19",
+"nayhtet20","kaungmyat20","shinelay19","hanmintun19","monlay18","naymyooo17",
+"maymoeoo19","phyoaungv19","phyoaung19","heinminoo19","zawzawaung19",
+"hninhnin20","thanminhtut20","htetaung20","pop20","hanmintun17",
+"chit20","konaing20","pp20","buebue20","thawzin20","mgtunsoe17","pb17","613"]
+  }
+}
+       
+       
+       103
+       
+       
+{
+  "listen": ":5667",
+   "cert": "/etc/zivpn/zivpn.crt",
+   "key": "/etc/zivpn/zivpn.key",
+   "obfs":"zivpn",
+   "auth": {
+    "mode": "passwords",
+    "config": ["readyvip","two226",
+"zinmar22","phyoaung22","pyaephyolwin22",
+"thetwaioo226s","thetwaioo226","naythuya221","naythuya222","naythuya223",
+"tuntunra22","kyawkyaw22","chitchit22","zinlin226","soelinaung22",
+"konaing22","moemoe22","tinmoe22","winhtet22","kaunglay22","yanpaingoo22",
+"sawhtweaung24","waiyan22","chit221","koko22",
+"nanhlaingyaminphyo23","phyoaung23","thetpaing23","kyawthura23",
+"tinaungkhat23","aungheinmoe23",
+"naythuya236","tunaungkhant236","khunkyawminoo236","khunkyawminoo23",
+"EgoboyLa23","buebue23","sawhtweaung23","linlin23","kyawhtetoo23"]
+  }
+}
+
+
+{
+  "listen": ":5667",
+   "cert": "/etc/zivpn/zivpn.crt",
+   "key": "/etc/zivpn/zivpn.key",
+   "obfs":"zivpn",
+   "auth": {
+    "mode": "passwords",
+    "config": ["readyvip","two226",
+"zinmar22","phyoaung22","pyaephyolwin22",
+"thetwaioo226s","thetwaioo226","naythuya221","naythuya222","naythuya223",
+"tuntunra22","kyawkyaw22","chitchit22","zinlin226","soelinaung22",
+"sawhtweaung25","kokooo25","kozin24","linlin24",
+"konaing22","moemoe22","tinmoe22","winhtet22","kaunglay22","yanpaingoo22",
+"thantzin24","naythuya24a","sawhtweaung24","waiyan22","chit221","koko22",
+"nanhlaingyaminphyo23","phyoaung23","thetpaing23","kyawthura23",
+"nangseinthan24","aung24","kaung24","tinaungkhat23","aungheinmoe23",
+"naythuya236","tunaungkhant236","khunkyawminoo236","khunkyawminoo23",
+"TarNage25","phyoaung25","kyawkolatt25","soemoezaw25","ykt25","naynay24",
+"SalaiYeLin26","ykt26a","babylay25","myokhantkyaw25","phyoaung25a",
+"ArKarSoe26","aung26a","winwinlay26a","chityathu26","EgoboyLa23",
+"buebue23","sawhtweaung23","linlin23fuck","kyawhtetoo23"]
+  }
+}
+
+
+
+
+readyvip", "two226",
+
+"zinmar22", "phyoaung22", "pyaephyolwin22", "thetwaioo226s", "thetwaioo226", "naythuya221", "naythuya222", "naythuya223", "tuntunra22", "kyawkyaw22", "chitchit22", "zinlin226", "soelinaung22", "sawhtweaung25", "kokooo25", "kozin24","linlin24", "konaing22", "moemoe22", "tinmoe22", "winhtet22", "kaunglay22", "yanpaingoo22", "thantzin24", "naythuya24a", "sawhtweaung24", "waiyan22", "chit221", "koko22", "nanhlaingyaminphyo23", "phyoaung23", "thetpaing23", "kyawthura23", "nangseinthan24", "aung24", "kaung24", "tinaungkhat23", "aungheinmoe23", "naythuya236", "tunaungkhant236", "khunkyawminoo236", "khunkyawminoo23", "TarNage25", "phyoaung25", "kyawkolatt25", "soemoezaw25", "ykt25", "naynay24 "SalaiYeLin26", "ykt26a", "babylay25", "myokhantkyaw25", "phyoaung25a", "ArKarSoe26", "aung26a", "winwinlay26a", "chityathu26", "EgoboyLa23", "koking27", "aungphyomin27", "kyawkolatt27", "buebue23", "sawhtweaung23", "linlin23fuck", "kyawhtetoo23"] N
+
+}
+
+}
